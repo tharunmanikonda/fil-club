@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "nil-club",
+    "slug": "nil-club",
+    "version": "1.0.0",
+    "scheme": "nilclub",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
